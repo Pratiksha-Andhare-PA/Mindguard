@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "448638357926",
+    "project_id": "aiwh-app",
+    "storage_bucket": "aiwh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448638357926:android:c575fac8a0b8edd96a7f67",
+        "android_client_info": {
+          "package_name": "com.example.aiwh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448638357926-pksbu0v63grf7bd06isl0j4713gq1ui3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdS0H7wdxMJPU-IQKuPWMFY10mdEHGr9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448638357926-pksbu0v63grf7bd06isl0j4713gq1ui3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "448638357926-a9pjp12id1mqljvqs179vhi1dfnm0gp0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aiwhApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
